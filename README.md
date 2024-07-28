@@ -89,8 +89,10 @@ The Host Monitor is a Python application with a graphical user interface (GUI) b
 - Right-click on a table entry and select "Copy" from the context menu to copy the entry to the clipboard.
 
 ## Screenshots
-
-_(Include screenshots of the application interface here)_
+![image](https://github.com/user-attachments/assets/ced26d59-8220-4e6d-aafa-30f0748cdf5c)
+![image](https://github.com/user-attachments/assets/722139bc-543c-411c-9890-450263bd8000)
+![image](https://github.com/user-attachments/assets/c15ec861-c8e1-4a98-bc4a-b556c22d147a)
+![image](https://github.com/user-attachments/assets/20fda9be-4710-4b2f-a645-e61f0432c73e)
 
 ## Developer
 
