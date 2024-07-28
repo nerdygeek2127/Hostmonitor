@@ -9,6 +9,11 @@ The Host Monitor is a Python application with a graphical user interface (GUI) b
 - **Clear Table**: Clear all entries in the table.
 - **Save**: Save the table entries to an Excel (.xlsx) file.
 
+## Usecases 
+
+- if need to find ip address for specific vendor which has a unique Mac Address for fisrt 6 digits.Enter the first 6 digits and searching for ip with the network address it will show IP Address binded with MAC address.  
+- Contniuos monitoring of IOT devices which has IP Address.  
+
 ## Prerequisites
 
 - Python 3.6 or higher
