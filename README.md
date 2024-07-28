@@ -4,13 +4,10 @@ The Host Monitor is a Python application with a graphical user interface (GUI) b
 ## Features
 
 - **Add Host**: Add hosts with a description, IP address or hostname, and a checking interval.
-- **Search**: Scan a network for devices with specific MAC address prefixes.
+- **Search**: Scan a network for devices with specific MAC address prefixes, also search for IP Address with specific MAC address or with the prefix of the MAC address
 - **Start/Stop Monitoring**: Start or stop monitoring all added hosts.
 - **Clear Table**: Clear all entries in the table.
 - **Save**: Save the table entries to an Excel (.xlsx) file.
-- **Copy**: Copy the selected table entry to the clipboard.
-- **Context Menu**: Right-click context menu for copying table entries.
-- **Developer Info**: Display developer information at the bottom of the application.
 
 ## Prerequisites
 
