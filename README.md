@@ -96,5 +96,6 @@ The Host Monitor is a Python application with a graphical user interface (GUI) b
 ![image](https://github.com/user-attachments/assets/bc08cbe0-461e-4821-bc63-6ddd9e9431d2)
 
 ## Developer
+![Alt](https://repobeats.axiom.co/api/embed/5ad7d1b5dbf0c8b66754ae4ebd61e351b1978abb.svg "Repobeats analytics image")
 
 Developed by 👽 lohit@nerdygeek2127
